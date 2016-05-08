@@ -1,4 +1,4 @@
-Java redislap tool, support jedis currently
+Java redislap tool, support jedis(standalone and cluster) currently
 ============================================
    
 Getting started. 
